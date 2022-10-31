@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# Author : D4Vinci
-# Recoded by : codex31
-# Cleaned by : igosad
-# Moved from python2 to python3
-# All copyrights to Squnity team
-
 import random
 import socket
 import string
